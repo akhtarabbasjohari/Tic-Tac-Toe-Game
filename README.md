@@ -4,6 +4,9 @@ This is my first ever project built using HTML, CSS, and JavaScript.
 It is a simple but fully functional Tic Tac Toe game that runs 
 directly in the browser with no frameworks or libraries involved.
 
+<img width="1151" height="868" alt="image" src="https://github.com/user-attachments/assets/b2da50a0-73cb-46cd-a6ec-8bea6a7822d8" />
+
+
 ## About the Project
 
 I built this project to put into practice what I have been learning 
